@@ -1,0 +1,19 @@
+# dependencies
+node_modules/
+
+# IDE
+.idea/
+.vscode/
+.devcontainer/
+.classpath
+.project
+.settings
+*.code-workspace
+
+# Vim
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+[._]swo
